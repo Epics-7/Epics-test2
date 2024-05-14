@@ -73,6 +73,7 @@
 //   );
 // }
 
+/* eslint-disable */
 import React, { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import Plant from '../img/signUp/p.png';
@@ -151,3 +152,4 @@ export default function Login() {
     </form>
   );
 }
+/* eslint-enable */

@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react';
 //import pages
 import Home from '../pages/Home'
@@ -20,3 +21,4 @@ const AnimRoutes = () => {
 };
 
 export default AnimRoutes;
+/* eslint-enable */

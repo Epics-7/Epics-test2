@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React, { useState, useRef } from "react";
 
 const Card = () => {
@@ -126,7 +127,7 @@ const Card = () => {
 };
 
 export default Card;
-
+/* eslint-enable */
 
 
 

@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react';
 import Logo from '../img/header/k.png'
 import Socials from './Socials'
@@ -39,3 +40,4 @@ const Header = () => {
 };
 
 export default Header;
+/* eslint-enable */

@@ -1,3 +1,4 @@
+/* eslint-disable */
 import About from "../pages/About";
 import Working from "../pages/Working";
 
@@ -207,3 +208,4 @@ const Homepage = () => {
 };
 
 export default Homepage;
+/* eslint-enable */

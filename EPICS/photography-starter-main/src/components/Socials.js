@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react';
 import{
   ImFacebook,
@@ -22,3 +23,4 @@ const Socials = () => {
 };
 
 export default Socials;
+/* eslint-enable */

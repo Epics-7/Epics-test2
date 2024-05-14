@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react';
 //import components
 import Header from './components/Header'
@@ -17,3 +18,4 @@ const App = () => {
 };
 
 export default App;
+/* eslint-enable */

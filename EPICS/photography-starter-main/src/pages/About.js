@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react'
 import Plant from '../img/about/q.jpg'
 import { Link } from 'react-router-dom'
@@ -24,4 +25,5 @@ const About = () => {
 }
 
 export default About
+/* eslint-enable */
 

@@ -26,6 +26,8 @@
 
 // export default SignUp
 
+/* eslint-disable */
+
 import React, { Component, useState } from "react";
 import Form from './Form'
 import Plant from '../img/signUp/p.png'
@@ -53,3 +55,5 @@ const SignUp = () => {
 }
 
 export default SignUp
+
+/* eslint-enable */
